@@ -81,11 +81,10 @@ The project demonstrates the power of **data visualization** and **business inte
 ## **Acknowledgments**  
 This project was made possible through the **PwC Power BI Virtual Experience Program** on **Forage**. Grateful to PwC for providing such a practical platform to enhance data analytics and business intelligence skills.  
 
----
 
 ## **Connect with Me**  
-- **LinkedIn**: [Your LinkedIn Profile Link]  
-- **GitHub**: [Your GitHub Profile Link]  
-- **Portfolio**: [Your Portfolio Link, if available]  
+- **LinkedIn**: www.linkedin.com/in/amansharma270  
+- **GitHub**: https://github.com/Maveaman
+
 
 💬 I’d love to hear your feedback and discuss opportunities for collaboration. Together, we can harness the power of data for impactful decision-making! 🚀  
